@@ -1,0 +1,4 @@
+.parcel-cashe
+node_modules
+dist
+package-lock.json
